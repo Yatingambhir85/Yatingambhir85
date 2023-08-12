@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps course including AWS, LINUX,DOCKER**
+- 🔭 I’m currently working on **Building Android Applications and deploying it on cloud**
 
-- 📫 How to reach me **yatingambhir85@gmail.com**
+- 🌱 I’m currently learning **DevOps course including AWS, LINUX, DOCKER**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Yatingambhir85](https://github.com/Yatingambhir85)
+
+- 📫 How to reach me **https://www.linkedin.com/in/yatingambhirtech/**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yrdVyBfW-6u5Z-XCQJR0SeGWQtkqDDZm/view?usp=drive_link](https://drive.google.com/file/d/1yrdVyBfW-6u5Z-XCQJR0SeGWQtkqDDZm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
