@@ -1,4 +1,4 @@
-![logo](https://github.com/Yatingambhir85/Yatingambhir85/blob/main/Yatin%20Gambhir%20(2).png)
+![logo](https://github.com/Yatingambhir85/Yatingambhir85/blob/main/Yatin%20Gambhir.png)
 <h1 align="center">Hi 👋, I'm Yatin Gambhir</h1>
 <h3 align="center">A passionate learner and upcoming DevOps Engineer</h3>
 
