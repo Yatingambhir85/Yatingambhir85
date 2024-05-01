@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Building Android Applications and deploying it on cloud**
 
-- 🌱 I’m currently learning **DevOps course including AWS, LINUX, DOCKER**
+- 🌱 I’m currently learning **DevOps course including AWS, LINUX, DOCKER, KUNBERNETES, JENKINS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yatingambhir85](https://github.com/Yatingambhir85)
 
