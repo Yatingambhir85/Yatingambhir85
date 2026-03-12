@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Building and Deploying Open Source Applications using modern DevSecOps CI/CD Pipelines.**
 
-- 🌱 I’m currently learning **DevOps course including AWS, LINUX, DOCKER, Kubernetes, JENKINS**
+- 🌱 I’m currently learning **DevOps Tools including AWS, LINUX, DOCKER, Kubernetes, Github Actions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yatingambhir85](https://github.com/Yatingambhir85)
 
