@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Building Android Applications and deploying it on cloud**
+- 🔭 I’m currently working on **Building and Deploying Open Source Applications using modern DevSecOps CI/CD Pipelines.**
 
-- 🌱 I’m currently learning **DevOps course including AWS, LINUX, DOCKER, KUNBERNETES, JENKINS**
+- 🌱 I’m currently learning **DevOps course including AWS, LINUX, DOCKER, Kubernetes, JENKINS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yatingambhir85](https://github.com/Yatingambhir85)
 
